@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b6b048480434d4698d641426f23550, type: 3}
+  m_Name: spaceship_outro
+  m_EditorClassIdentifier: 
+  m_RawAsset: {fileID: 4900000, guid: 66f909007ab40554fa61084406451514, type: 3}
+  m_TextureMaterials:
+  - {fileID: 2100000, guid: f1a3339a9c4795246b57c4dbe385f62e, type: 2}
